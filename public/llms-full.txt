@@ -2,13 +2,13 @@
 
 Eran Tours is an Israeli travel agency with a warm, personal, and trustworthy brand identity. The agency positions itself as a full-service travel partner — not just a booking platform — emphasizing genuine care, competitive pricing, and end-to-end service from flights to insurance. The brand targets couples, families, and friend groups seeking memorable international vacations, and communicates with an energetic, friendly tone using emojis and a 'we've got your back' attitude. In addition to vacation packages, they offer event tickets (football, concerts), car rentals, travel insurance, and international eSIM connectivity, making them a one-stop-shop for travelers.
 
-Source: https://-3294a433.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה יעדים מרהיבים בעולם — ערן טורס
 
-URL: https://-3294a433.zappy5.app
+URL: https://example.com
 Description: ערן טורס הוא שותף הנסיעות האישי שלך! חבילות נופש, כרטיסי טיסה, ביטוח נסיעות ועוד — הכל במקום אחד. מחירים תחרותיים ושירות חם מהלב. הזמן עכשיו!
 
 גלה יעדים מרהיבים בעולם — ערן טורס
@@ -686,7 +686,7 @@ eSIM
 
 ## חבילות חלום שממתינות לך לצאת לדרך — ערן טורס
 
-URL: https://-3294a433.zappy5.app/vacation-packages
+URL: https://example.com/vacation-packages
 Description: חפש את חבילת הנופש המושלמת עבורך, למשפחות, זוגות וחברים! יעדים בינלאומיים מרהיבים עם טיסות, מלונות וביטוח — הכל כלול. tourist places in near me? אנחנו כבר מצאנו!
 
 חבילות חלום שממתינות לך לצאת לדרך — ערן טורס
@@ -1278,7 +1278,7 @@ Description: חפש את חבילת הנופש המושלמת עבורך, למש
 
 ## כל מה שצריך לנסיעה המושלמת במקום אחד — ערן טורס
 
-URL: https://-3294a433.zappy5.app/travel-extras
+URL: https://example.com/travel-extras
 Description: השלם את חווית הנסיעה שלך עם eSIM בינלאומי, השכרת רכב, ביטוח נסיעות וכרטיסים לאירועי ספורט והופעות. tourist attraction near me מתחיל בהכנה חכמה איתנו!
 
 כל מה שצריך לנסיעה המושלמת במקום אחד — ערן טורס
@@ -1868,7 +1868,7 @@ Description: השלם את חווית הנסיעה שלך עם eSIM בינלאו
 
 ## דבר איתנו ונבנה לך את החופשה האידיאלית — ערן טורס
 
-URL: https://-3294a433.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך חלום על חופשה? צוות ערן טורס כאן בשבילך! פנה אלינו עכשיו לייעוץ אישי, הצעות מחיר ותכנון מסלול מותאם. שירות חם, מקצועי ואמין — כי המסע שלך מתחיל כאן.
 
 דבר איתנו ונבנה לך את החופשה האידיאלית — ערן טורס
@@ -2393,7 +2393,7 @@ Description: יש לך חלום על חופשה? צוות ערן טורס כאן
 
 ## מדיניות פרטיות
 
-URL: https://-3294a433.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2665,7 +2665,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3294a433.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2946,7 +2946,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3294a433.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
