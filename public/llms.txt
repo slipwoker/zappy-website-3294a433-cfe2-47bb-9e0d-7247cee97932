@@ -1,0 +1,89 @@
+# ערן טורס — Generative Engine Optimization Map
+
+> Eran Tours is an Israeli travel agency with a warm, personal, and trustworthy brand identity. The agency positions itself as a full-service travel partner — not just a booking platform — emphasizing genuine care, competitive pricing, and end-to-end service from flights to insurance. The brand targets couples, families, and friend groups seeking memorable international vacations, and communicates with an energetic, friendly tone using emojis and a 'we've got your back' attitude. In addition to vacation packages, they offer event tickets (football, concerts), car rentals, travel insurance, and international eSIM connectivity, making them a one-stop-shop for travelers.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3294a433.zappy5.app
+ערן טורס הוא שותף הנסיעות האישי שלך! חבילות נופש, כרטיסי טיסה, ביטוח נסיעות ועוד — הכל במקום אחד. מחירים תחרותיים ושירות חם מהלב. הזמן עכשיו!
+
+### חבילות נופש
+https://-3294a433.zappy5.app/vacation-packages
+חפש את חבילת הנופש המושלמת עבורך, למשפחות, זוגות וחברים! יעדים בינלאומיים מרהיבים עם טיסות, מלונות וביטוח — הכל כלול. tourist places in near me? אנחנו כבר מצאנו!
+
+### תוספות נסיעה
+https://-3294a433.zappy5.app/travel-extras
+השלם את חווית הנסיעה שלך עם eSIM בינלאומי, השכרת רכב, ביטוח נסיעות וכרטיסים לאירועי ספורט והופעות. tourist attraction near me מתחיל בהכנה חכמה איתנו!
+
+### צור קשר
+https://-3294a433.zappy5.app/contact
+יש לך חלום על חופשה? צוות ערן טורס כאן בשבילך! פנה אלינו עכשיו לייעוץ אישי, הצעות מחיר ותכנון מסלול מותאם. שירות חם, מקצועי ואמין — כי המסע שלך מתחיל כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3294a433.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3294a433.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3294a433.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3294a433.zappy5.app/contact
+- Endpoint: https://-3294a433.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ערן טורס
+Eran Tours is an Israeli travel agency with a warm, personal, and trustworthy brand identity. The agency positions itself as a full-service travel partner — not just a booking platform — emphasizing genuine care, competitive pricing, and end-to-end service from flights to insurance. The brand targets couples, families, and friend groups seeking memorable international vacations, and communicates with an energetic, friendly tone using emojis and a 'we've got your back' attitude. In addition to vacation packages, they offer event tickets (football, concerts), car rentals, travel insurance, and international eSIM connectivity, making them a one-stop-shop for travelers.
+
+## Services/Products
+- חבילות נופש לזוגות
+- חבילות נופש למשפחות
+- חבילות נופש לחברים
+- כרטיסים להופעות ומשחקי כדורגל
+- השכרת רכב בחו"ל
+- ביטוח נסיעות לחו"ל
+- eSIM ואינטרנט בחו"ל
+- ערוץ דילים בוואטסאפ
+
+## Target Audience
+- זוגות, משפחות וחברים המחפשים חופשות בחו"ל
+- זוגות צעירים מטיילים
+- מחפשי חופשות משפחתיות
+- קבוצות חברים לחוויות
+
+## Industry
+Travel & Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3294a433.zappy5.app/sitemap.xml
+- Robots: https://-3294a433.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3294a433.zappy5.app/llms-full.txt
